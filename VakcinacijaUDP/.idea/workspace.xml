@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="378cd3dd-5786-49e9-a09b-606cb98dea46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x266Aj98n6q9O1YHdGuzvghKVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Punkt">
+    <configuration name="CentralenServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VakcinacijaUDP.CentralenServer" />
+      <module name="VakcinacijaUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VakcinacijaUDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Korisnik" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VakcinacijaUDP.Korisnik" />
+      <module name="VakcinacijaUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VakcinacijaUDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Punkt" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VakcinacijaUDP.Punkt" />
+      <module name="VakcinacijaUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VakcinacijaUDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CentralenServer" />
+      <item itemvalue="Application.Korisnik" />
+      <item itemvalue="Application.Punkt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Punkt" />
+        <item itemvalue="Application.Korisnik" />
+        <item itemvalue="Application.CentralenServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="378cd3dd-5786-49e9-a09b-606cb98dea46" name="Default Changelist" comment="" />
+      <created>1629540657312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629540657312</updated>
+      <workItem from="1629540664648" duration="15111000" />
+      <workItem from="1629588202863" duration="7511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629631459456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1629631459456" />
+    <state x="176" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1629541153656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629541153656" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1629588379603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629588379603" />
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1629666249261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629666249261" />
+    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1629666249261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629666249261" />
+    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1629666249261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629666249261" />
+    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1629666249261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629666249261" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1629588368474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1629588368474" />
+    <state x="65" y="0" key="new project wizard" timestamp="1629666200354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1629666200354" />
+    <state x="113" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1629631034906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="113" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1629631034906" />
+  </component>
+</project>

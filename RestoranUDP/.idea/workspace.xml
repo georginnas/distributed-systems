@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c9a200e-1c6b-4d98-9c6d-4e8dbfcb53f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x6W4PiiA61ixtHGiEFaq2pyszb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Kupuvac">
+    <configuration name="Kupuvac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="restoranudp.Kupuvac" />
+      <module name="RestoranUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restoranudp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Organizator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="restoranudp.Organizator" />
+      <module name="RestoranUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restoranudp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Restoran" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="restoranudp.Restoran" />
+      <module name="RestoranUDP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restoranudp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Kupuvac" />
+      <item itemvalue="Application.Organizator" />
+      <item itemvalue="Application.Restoran" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Restoran" />
+        <item itemvalue="Application.Kupuvac" />
+        <item itemvalue="Application.Organizator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c9a200e-1c6b-4d98-9c6d-4e8dbfcb53f2" name="Default Changelist" comment="" />
+      <created>1629675827049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629675827049</updated>
+      <workItem from="1629675832033" duration="8033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629754599490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1629754599490" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1629755851101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629755851101" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1629755851101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629755851101" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1629755851101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629755851101" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1629755851101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629755851101" />
+    <state x="65" y="0" key="new project wizard" timestamp="1629755846867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1629755846867" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1629754235180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1629754235180" />
+  </component>
+</project>
